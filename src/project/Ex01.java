@@ -8,5 +8,9 @@ public class Ex01 {
 		int _person=3;
 		System.out.println(_person);
 		
+		System.out.println(countOfLettersInString);
+		
+		
+		
 	}
 }
